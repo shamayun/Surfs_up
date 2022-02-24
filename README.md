@@ -9,7 +9,4 @@ I have utilized Python, Jupyter Notebook, SQLAlchemy to analyze, manipulate data
 * December also has colder days compared to June, where minimum temperature can be as low as 56 degrees. June minimum is 64 degrees, a gap of 8 degrees.
 
 Summary:
-
-There is a high-level summary of the results and there are 
-* two additional queries to perform to gather more weather data for June and December. (5 pt)
-* 
+December is a lot colder than June, 7-years average rainfall in December is twice as much than June. Number of precipitation of standard deviation is also almost 2.5x in December than June. Even though statistics are odd in December, in the receent year, precipitation is lower than usual. This could be a result of global warming. In compare to June, December could still keep up some pace for surfing and ice-cream.
